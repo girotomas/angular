@@ -12,6 +12,12 @@ Using the Angular CLI, generate a new component named `heroes`.
   ng generate component heroes
 </code-example>
 
+
+<div class="alert is-helpful">
+
+**Note:** You need to call this command in the folder `src/app/`
+</div>
+
 The CLI creates a new folder, `src/app/heroes/`, and generates
 the four files of the  `HeroesComponent`.
 
